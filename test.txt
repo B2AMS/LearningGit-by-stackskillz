@@ -1,4 +1,17 @@
-12312312
-TEst fuer Backup Ordner
-git diff HEAD
-git diff
+git status - Zeigt Status des Workspaces an
+
+git add "FILENAME" - Lässt Dateien beobachten und fügt sie in Staging Area ein
+git add . - Alle Dateien in Staging Area
+
+git commit -m "first commit - -m steht für message
+
+git diff HEAD - Zeigt unterschied von Workspace zum Repository an
+git diff - Zeigt unterschied von Workspace zur Staging Area an
+git diff "FILENAME"
+
+git clone "URL"
+
+git remote - Zeigt alle vorhandenen Remotes an
+git remote add "Remotename" "URL" - Fügt ein Remote hinzu
+
+git push origin master - Pushed alle Änderungen vom MasterBranche zum Origin Repository
