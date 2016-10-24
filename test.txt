@@ -1,2 +1,4 @@
 12312312
 TEst fuer Backup Ordner
+git diff HEAD
+git diff
